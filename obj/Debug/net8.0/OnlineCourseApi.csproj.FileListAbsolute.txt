@@ -144,3 +144,7 @@ C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\obj\Debug\net8.0\refin
 C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\obj\Debug\net8.0\OnlineCourseApi.pdb
 C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\obj\Debug\net8.0\OnlineCourseApi.genruntimeconfig.cache
 C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\obj\Debug\net8.0\ref\OnlineCourseApi.dll
+C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\obj\Debug\net8.0\OnlineCourseApi.sourcelink.json
