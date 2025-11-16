@@ -148,3 +148,7 @@ C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\bin\Debug\net8.0\Fluen
 C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\obj\Debug\net8.0\OnlineCourseApi.sourcelink.json
+C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\berka\OneDrive\Masaüstü\WebAPI\OnlineCourseApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
